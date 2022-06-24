@@ -1,5 +1,5 @@
 
-name: Bridgecrew
+name: Cloud Code Security
 on:
   push:
     branches:
